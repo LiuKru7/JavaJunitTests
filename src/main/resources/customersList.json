@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Alice",
+    "age": 30,
+    "address": "123 Elm Street",
+    "city": "Wonderland",
+    "orders": [
+      {
+        "name": "Laptop",
+        "price": 1200.50,
+        "quantity": 1
+      },
+      {
+        "name": "Headphones",
+        "price": 150.75,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "name": "Bob",
+    "age": 40,
+    "address": "456 Oak Avenue",
+    "city": "Springfield",
+    "orders": [
+      {
+        "name": "Smartphone",
+        "price": 899.99,
+        "quantity": 1
+      },
+      {
+        "name": "Charger",
+        "price": 19.99,
+        "quantity": 3
+      },
+      {
+        "name": "Screen Protector",
+        "price": 9.99,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "name": "Charlie",
+    "age": 28,
+    "address": "789 Maple Road",
+    "city": "Metropolis",
+    "orders": [
+      {
+        "name": "Tablet",
+        "price": 450.00,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Diana",
+    "age": 35,
+    "address": "101 Pine Circle",
+    "city": "Gotham",
+    "orders": [
+      {
+        "name": "Book",
+        "price": 25.99,
+        "quantity": 4
+      },
+      {
+        "name": "Notebook",
+        "price": 7.50,
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "Eve",
+    "age": 25,
+    "address": "202 Birch Lane",
+    "city": "Star City",
+    "orders": [
+      {
+        "name": "Gaming Console",
+        "price": 299.99,
+        "quantity": 1
+      },
+      {
+        "name": "Game Controller",
+        "price": 59.99,
+        "quantity": 2
+      }
+    ]
+  }
+]
