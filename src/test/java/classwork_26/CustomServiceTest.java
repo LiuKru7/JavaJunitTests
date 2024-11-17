@@ -38,6 +38,7 @@ class CustomerServiceTest {
 
         assertEquals(4,quantityOfAllProducts);
     }
+
     @Test
     void testAllCustomerWithSpecificCity() {
         List<Customer> customers = createTestData();
